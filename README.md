@@ -33,4 +33,4 @@ GET /api/v1/products - Retrieve a list of products with various filtering and so
 + numericFilters - Filter the results by numeric fields (price, rating) using operators such as >, >=, =, <, and <= (e.g. numericFilters=price>20,rating<=3).
 + page - Page number to retrieve (default: 1).
 + limit - Number of items per page (default: 10).
-+ 
+
